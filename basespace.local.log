@@ -1,0 +1,16 @@
+2017-06-10 11:49:06 DEBUG::***ATTENTION***
+2017-06-10 11:49:06 DEBUG::You ***MUST*** be in the directory where larson.Rdata was downloaded
+2017-06-10 11:49:06 INFO::Data sucessfully loaded
+2017-06-10 11:49:20 INFO::Percent RNA shown in following log entries comes from *_Log.final.out stored on the remote host in /data/basespace/star_output
+2017-06-10 11:49:20 INFO::Scenario: pup$L11_L1 vs. pup$L11_L2
+2017-06-10 11:49:20 INFO::K-S Stat: 0.0077376894030442
+2017-06-10 11:49:20 INFO::Empirical p value =  0.999
+2017-06-10 11:49:21 INFO::Scenario: pup$L11_L1 vs. pup$L12_L1
+2017-06-10 11:49:21 INFO::K-S Stat: 0.195124724675596
+2017-06-10 11:49:21 INFO::Empirical p value <  2e-04
+2017-06-10 11:49:22 INFO::Scenario: pup$L11_L1 vs. pup$Red7_L1
+2017-06-10 11:49:22 INFO::K-S Stat: 0.195124724675596
+2017-06-10 11:49:22 INFO::Empirical p value <  2e-04
+2017-06-10 11:49:23 INFO::Scenario: pup$L11_L1 vs. pup$Red8_L1
+2017-06-10 11:49:23 INFO::K-S Stat: 0.0480898149203224
+2017-06-10 11:49:23 INFO::Empirical p value <  2e-04

@@ -1,0 +1,11 @@
+2017-06-10 11:52:31 INFO::Generated genome index based on /data/basespace/rRNA.fasta
+2017-06-10 11:52:31 INFO::Started mapping L11_L1_
+2017-06-10 13:07:07 INFO::Finished mapping L11_L1_
+2017-06-10 13:07:07 INFO::Started sorting L11_L1_
+2017-06-10 13:26:03 INFO::Finished sorting L11_L1_
+2017-06-10 13:27:52 INFO::.bai file name:  /data/basespace/star_output/L11_L1_Aligned.sortedByCoord.out.bam.bai
+2017-06-10 13:29:48 INFO::Saved file as larson_example.Rdata
+2017-06-10 13:29:48 DEBUG::Make sure you download the data file from the remote host
+2017-06-10 13:29:48 DEBUG::IP Address as of June 10, 2017: 35.166.86.160
+2017-06-10 13:29:48 DEBUG::Following scip command assumes key file (.pem) is in ~/.ssh/
+2017-06-10 13:29:48 DEBUG::scp -i ~/.ssh/MyKeyPair.pem ec2-user@<ip address>:/data/basespace/larson_example.Rdata <your directory>
